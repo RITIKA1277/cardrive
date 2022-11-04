@@ -1,7 +1,6 @@
 # cardrive
 
-# Hi !! 
- I'm Ritika i make this mini project on Car Running Track design Using HTML, CSS, JavaScript.
+Hi..! I'm Ritika i make this mini project on Car Running Track design Using HTML, CSS, JavaScript.
 
 # Project introduction :-
 in this project, I implement a animated car running on a track using HTML CSS JavaScript with sound effects. 
